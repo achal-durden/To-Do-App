@@ -1,0 +1,59 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.App{
+  background-color:rgb(173, 117, 225);
+  height:100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.textbox{
+  background-color: grey;
+  height: 485px;
+  border: 1px solid red;
+  width: 439px;
+  box-shadow: 27px 19px 48px 26px yellow;
+  display:flex;
+  flex-direction: column;
+
+
+}
+label{
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  margin-top: 14px;
+  height: 94px;
+  margin-left: 12px;
+  justify-content: space-between
+
+}
+.ter{
+   height: 54px;
+   margin-left: 12px;
+   
+}
+.btn{
+  margin-left: 12px;
+  height: 30px;
+  
+} 
+.ctc {
+  height: 60%;
+  width: 208px; 
+} 
+
+.et{
+  margin-left: 12px;
+  /* background-color: antiquewhite; */
+  display: inline-block;
+}
+
+divid{
+   /* background-color: antiquewhite; */
+   /* display: inline-block; */
+
+}

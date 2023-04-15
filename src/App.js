@@ -31,7 +31,7 @@ export default function App() {
     }) 
 
   }
-  // wtf
+
   return (
     <>
     <div className="App">
